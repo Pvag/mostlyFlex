@@ -41,8 +41,12 @@ header {
     background-color: orange;
 }
 
+.wrapper + p {
+    margin-top: 90px;
+}
+
 p {
-    padding: 60px;
+    padding: 20px;
 }
 
 em {
